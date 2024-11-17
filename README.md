@@ -5,5 +5,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+glad+to+see+you)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlkbTVwdWx2eGYyZnZ4eHE2c2VzM2tzZjYycXJrZWo0dXRhaDNpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlkbTVwdWx2eGYyZnZ4eHE2c2VzM2tzZjYycXJrZWo0dXRhaDNpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500"/>
 </div>
